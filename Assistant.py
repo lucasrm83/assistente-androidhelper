@@ -2,7 +2,7 @@ import androidhelper
 import types
 import time
 dia = (time.strftime("%A"))
-droid = androidhelper.Android()
+droid = androidhelper.Android() 
 
 def ver_user():
     user = ("lucas")
